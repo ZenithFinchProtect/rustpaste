@@ -1,0 +1,300 @@
+﻿  Assembling syscall.asm...
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  aimbot.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  baseplayer.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  communication.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  esp.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  imgui.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  imgui_draw.cpp
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  imgui_impl_dx11.cpp
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  include.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  item.cpp
+  math.cpp
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  misc.cpp
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  overlay.cpp
+  sdk.cpp
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+cl : command line  warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  main.cpp
+  object_loop.cpp
+  steam.cpp
+  unity.cpp
+C:\Users\admin\Downloads\1\1\imgui\imgui_impl_win32.cpp(158,38): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\admin\Downloads\1\1\imgui\imgui_impl_win32.cpp(158,31): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\admin\Downloads\1\1\overlay.cpp(9,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\Downloads\1\1\overlay.cpp(25,20): warning C4309: 'argument': truncation of constant value
+C:\Users\admin\Downloads\1\1\overlay.cpp(26,20): warning C4309: 'argument': truncation of constant value
+C:\Users\admin\Downloads\1\1\overlay.cpp(27,20): warning C4309: 'argument': truncation of constant value
+C:\Users\admin\Downloads\1\1\baseplayer.cpp(76,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Downloads\1\1\aimbot.cpp(469,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\Downloads\1\1\aimbot.cpp(470,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\Downloads\1\1\misc.cpp(125,89): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+C:\Users\admin\Downloads\1\1\misc.cpp(125,89): warning C4244:         with
+C:\Users\admin\Downloads\1\1\misc.cpp(125,89): warning C4244:         [
+C:\Users\admin\Downloads\1\1\misc.cpp(125,89): warning C4244:             t=float
+C:\Users\admin\Downloads\1\1\misc.cpp(125,89): warning C4244:         ]
+C:\Users\admin\Downloads\1\1\imgui\imgui_widgets.cpp(318,21): warning C4101: 'key_name': unreferenced local variable
+C:\Users\admin\Downloads\1\1\object_loop.cpp(500,49): warning C4244: 'argument': conversion from 'ULONG64' to 'const unsigned long', possible loss of data
+C:\Users\admin\Downloads\1\1\object_loop.cpp(931,34): warning C4244: 'argument': conversion from 'ULONG64' to 'const unsigned long', possible loss of data
+C:\Users\admin\Downloads\1\1\object_loop.cpp(937,36): warning C4244: 'argument': conversion from 'ULONG64' to 'unsigned long', possible loss of data
+C:\Users\admin\Downloads\1\1\esp.cpp(70,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\1\1\esp.cpp(84,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\1\1\esp.cpp(235,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\1\1\esp.cpp(243,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\1\1\esp.cpp(291,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\1\1\esp.cpp(308,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:             _Ty=ULONG64
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:             _Ty1=const ULONG
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         ]
+  (compiling source file 'object_loop.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\object_loop.cpp(501,25):
+          see reference to function template instantiation 'std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Umap_traits<_Kty,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<ULONG64,std::string&>(ULONG64 &&,std::string &)' being compiled
+          with
+          [
+              _Ty=std::pair<const ULONG,std::string>,
+              _Kty=ULONG,
+              _Hasher=std::hash<ULONG>,
+              _Keyeq=std::equal_to<ULONG>,
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>
+          ]
+              C:\Users\admin\Downloads\1\1\object_loop.cpp(501,33):
+              see the first reference to 'std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace' in 'object::main'
+          with
+          [
+              _Kty=ULONG,
+              _Ty=std::string,
+              _Hasher=std::hash<ULONG>,
+              _Keyeq=std::equal_to<ULONG>,
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xhash(549,53):
+          see reference to function template instantiation 'std::_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_List_node_emplace_op2<_Ty,std::string&>(_Alnode &,_Ty &&,std::string &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>,
+              _Ty=ULONG64,
+              _Alnode=std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const ULONG,std::string>>>::void_pointer>>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\list(595,25):
+          see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64,std::string&>(_Alloc &,_Objty *const ,unsigned __int64 &&,std::string &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const ULONG,std::string>>>::void_pointer>>,
+              _Ty=std::pair<const ULONG,std::string>,
+              _Objty=std::pair<const ULONG,std::string>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xmemory(732,82):
+          see reference to function template instantiation 'std::pair<const ULONG,std::string>::pair<_Ty,std::string&,0>(_Other1 &&,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Ty=ULONG64,
+              _Other1=ULONG64,
+              _Other2=std::string &
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244: 'initializing': conversion from 'uintptr_t' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:             _Ty1=const ULONG
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16): warning C4244:         ]
+  (compiling source file 'object_loop.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\utility(277,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\object_loop.cpp(934,23):
+          see reference to function template instantiation 'std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Umap_traits<_Kty,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<ULONG64&,std::string&>(ULONG64 &,std::string &)' being compiled
+          with
+          [
+              _Ty=std::pair<const ULONG,std::string>,
+              _Kty=ULONG,
+              _Hasher=std::hash<ULONG>,
+              _Keyeq=std::equal_to<ULONG>,
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>
+          ]
+              C:\Users\admin\Downloads\1\1\object_loop.cpp(934,31):
+              see the first reference to 'std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace' in 'object::main'
+          with
+          [
+              _Kty=ULONG,
+              _Ty=std::string,
+              _Hasher=std::hash<ULONG>,
+              _Keyeq=std::equal_to<ULONG>,
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xhash(549,53):
+          see reference to function template instantiation 'std::_List_node_emplace_op2<std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_List_node_emplace_op2<uintptr_t&,std::string&>(_Alnode &,uintptr_t &,std::string &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::pair<const ULONG,std::string>>,
+              _Alnode=std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const ULONG,std::string>>>::void_pointer>>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\list(595,25):
+          see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,uintptr_t&,std::string&>(_Alloc &,_Objty *const ,uintptr_t &,std::string &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const ULONG,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const ULONG,std::string>>>::void_pointer>>,
+              _Ty=std::pair<const ULONG,std::string>,
+              _Objty=std::pair<const ULONG,std::string>
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xmemory(732,82):
+          see reference to function template instantiation 'std::pair<const ULONG,std::string>::pair<uintptr_t&,std::string&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Other1=uintptr_t &,
+              _Other2=std::string &
+          ]
+  
+C:\Users\admin\Downloads\1\1\esputils.hpp(435,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'esp.cpp')
+      C:\Users\admin\Downloads\1\1\esputils.hpp(435,3):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\esp.cpp(158,5):
+          see reference to function template instantiation 'void ESP_staticstringset<game::staticStringSet>(T &,ImColor)' being compiled
+          with
+          [
+              T=game::staticStringSet
+          ]
+  
+C:\Users\admin\Downloads\1\1\esputils.hpp(464,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'esp.cpp')
+      C:\Users\admin\Downloads\1\1\esputils.hpp(464,3):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\esp.cpp(164,5):
+          see reference to function template instantiation 'void ESP_staticstringcolorset<game::staticStringColorSet>(T &)' being compiled
+          with
+          [
+              T=game::staticStringColorSet
+          ]
+  
+C:\Users\admin\Downloads\1\1\esputils.hpp(345,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'esp.cpp')
+      C:\Users\admin\Downloads\1\1\esputils.hpp(345,3):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\esp.cpp(178,6):
+          see reference to function template instantiation 'void ESP_stringset<game::stringSet>(T &)' being compiled
+          with
+          [
+              T=game::stringSet
+          ]
+  
+C:\Users\admin\Downloads\1\1\esputils.hpp(370,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'esp.cpp')
+      C:\Users\admin\Downloads\1\1\esputils.hpp(370,3):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\esp.cpp(187,5):
+          see reference to function template instantiation 'void ESP_raidset<game::raidSet>(T &)' being compiled
+          with
+          [
+              T=game::raidSet
+          ]
+  
+C:\Users\admin\Downloads\1\1\esputils.hpp(558,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'esp.cpp')
+      C:\Users\admin\Downloads\1\1\esputils.hpp(558,5):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\esp.cpp(260,5):
+          see reference to function template instantiation 'void ESP_player<game::entSet>(T &)' being compiled
+          with
+          [
+              T=game::entSet
+          ]
+  
+C:\Users\admin\Downloads\1\1\esputils.hpp(499,45): warning C4474: 'sprintf' : too many arguments passed for format string
+  (compiling source file 'esp.cpp')
+      C:\Users\admin\Downloads\1\1\esputils.hpp(499,45):
+      placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+      C:\Users\admin\Downloads\1\1\esputils.hpp(499,45):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\esp.cpp(266,5):
+          see reference to function template instantiation 'void ESP_staticstringlistcolorset<game::staticStringListColorSet>(T &)' being compiled
+          with
+          [
+              T=game::staticStringListColorSet
+          ]
+  
+C:\Users\admin\Downloads\1\1\esputils.hpp(493,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'esp.cpp')
+  
+C:\Users\admin\Downloads\1\1\esputils.hpp(499,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'esp.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'esp.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\1\1\esputils.hpp(999,21):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\admin\Downloads\1\1\esputils.hpp(999,2):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'GetSystemFontFile'
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(862,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=std::+::_Size_type,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=std::+::_Size_type
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1018,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=std::+::_Size_type,
+              _InIt=wchar_t *,
+              _SizeTy=std::+::_Size_type
+          ]
+  
+  ricochet-rust-recode.vcxproj -> C:\Users\admin\Downloads\1\1\x64\Release\cheat.exe
