@@ -1,0 +1,29 @@
+#pragma once
+
+template <unsigned int x> struct compile_time {
+	enum : unsigned int {
+		value = x
+	};
+};
+#define h(str) compile_time<ricochet::crypto::hash(str)>::value
+
+namespace ricochet::crypto
+{
+	template <typename t>
+	constexpr unsigned int hash(const t string)
+	{
+		auto hash = 0xffffffff;
+		auto pointer = string;
+		while (*pointer != '\0')
+		{
+			auto c = *pointer++;
+			if ( c >= 'A' && c <= 'Z' ) c += 32;
+			hash ^= c;
+			hash ^= 0x4447bbee;
+			hash = (hash >> 1);
+			hash ^= 0x092cd4af;
+			hash += (hash << 5);
+		}
+		return hash;
+	}
+}
